@@ -184,6 +184,7 @@
             columns:  [
               {field: 'address', title: '换单人', width: 40, titleAlign: 'center',columnAlign:'center',isEdit:true,isResize:true},
               {field: 'tel', title: '换单费', width: 120, titleAlign: 'center',columnAlign:'center',isEdit:true,isResize:true},
+              {field: 'tel', title: '运抵状态', width: 120, titleAlign: 'center',columnAlign:'center',isEdit:true,isResize:true},
               {field: 'hobby', title: '退还单费', width: 120, titleAlign: 'center',columnAlign:'center',isEdit:true,isResize:true},
               {field: 'address', title: '滞箱费', width: 120, titleAlign: 'center',columnAlign:'left',isEdit:true,isResize:true},
               {field: 'address', title: '滞箱天数', width: 120, titleAlign: 'center',columnAlign:'left',isEdit:true,isResize:true},
